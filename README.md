@@ -1,4 +1,4 @@
-# Repository Description
+# Repository Description (NEW)
 
 This repository serves as a collection of my completed internships or training programs, providing a platform to organize and document each experience.
 
